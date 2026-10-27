@@ -5,7 +5,8 @@ Personal portfolio site for Mike Beebe. Plain HTML and CSS, no build step, hoste
 ## Files
 
 - `index.html` – home page (work, about, experience, contact)
-- `mcdonalds-mobile-ordering.html`, `northern-trust.html` – case study pages
+- `mcdonalds-mobile-ordering.html`, `northern-trust.html`, `fordworks.html` – case study pages
+- `ai-and-design.html` – AI & Design page
 - `styles.css` – all styling; colors and fonts are variables at the top
 - `images/` – project images
 
