@@ -166,3 +166,4 @@ p { margin: 0 0 1em; }
 @media (max-width: 760px) {
   .cards, .cards.three, .callout { grid-template-columns: 1fr; }
 }
+.tags li.ai { border-color: var(--accent); color: var(--accent); }
